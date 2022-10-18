@@ -1,4 +1,5 @@
 https://media4.giphy.com/media/toXKzaJP3WIgM/200w.gif?cid=82a1493bied7yh8fk7gdb2jbzswfedb4np38t1xh94yy0lks&rid=200w.gif&ct=g
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/toXKzaJP3WIgM/200w.gif?cid=82a1493bied7yh8fk7gdb2jbzswfedb4np38t1xh94yy0lks&rid=200w.gif"> 
 <h1 align="center">Hi 👋, I'm Truong</h1>
 <h3 align="center">A passionate information technology</h3>
 
