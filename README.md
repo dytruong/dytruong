@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="900" src="https://media4.giphy.com/media/toXKzaJP3WIgM/200w.gif?cid=82a1493bied7yh8fk7gdb2jbzswfedb4np38t1xh94yy0lks&rid=200w.gif"> 
-<h1 align="center">Hi 👋, I'm Truong</h1>
+<img align="center" alt="Coding" width="500" src="https://media4.giphy.com/media/toXKzaJP3WIgM/200w.gif?cid=82a1493bied7yh8fk7gdb2jbzswfedb4np38t1xh94yy0lks&rid=200w.gif"> 
+<h1 align="center">Hi 👋, I'm Duy Trường</h1>
 <h3 align="center">A passionate information technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dytruong&label=Profile%20views&color=0e75b6&style=flat" alt="dytruong" /> </p>
