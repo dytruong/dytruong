@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Duy Trường</h1>
 <h3 align="center">Devops Engineer at G***loft</h3>
 
-- 🌱 I’m currently working as **Devops**
+- 🌱 I’m currently working as **Devops** engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/dytruong](https://github.com/dytruong)
 
