@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **duytruongtran1997@gmail.com**
 
-- 📄 Know about my working experiences [https://www.linkedin.com/in/duy-truong0311/](https://www.linkedin.com/in/duy-truong0311/)
+- 📄 Know about my working experiences [https://www.linkedin.com/in/duytruong97/](https://www.linkedin.com/in/duytruong97/)
 
  
 <h3 align="left">Connect with me:</h3>
